@@ -7,8 +7,12 @@ module.exports = {
     description: 'Personal running page',
     navLinks: [
       {
-        name: 'About',
+        name: 'Blog',
         url: 'https://running-page-imjoey.vercel.app',
+      },
+      {
+        name: 'About',
+        url: 'https://github.com/imjoey',
       },
     ],
   },
